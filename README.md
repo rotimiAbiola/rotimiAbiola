@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 - 📫 Say Hi to me at rtmabiola@gmail.com
 - ⚡ Fun fact: I love learning
 
-[![Rotimi’s github stats](https://github-readme-stats.vercel.app/api?username=rotimiAbiola)](https://github.com/rotimiAbiola)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rotimiAbiola&layout=compact)](https://github.com/rotimiAbiola)
-
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=rotimiAbiola&show_icons=true&include_all_commits=true&hide_border=true" alt="Rotimi's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rotimiAbiola&langs_count=8&layout=compact&hide_border=true" alt="Rotimi's GitHub stats" /> |
 | ------------- | ------------- |
