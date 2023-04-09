@@ -1,9 +1,9 @@
-<p align=”center”>
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/74080364/230779173-a19fffc6-2dea-45cd-9e6e-5a030c72e602.png" alt=”my banner”>
-</p>
 
-### Hi there, I am Rotimi Abiola👋
+# Hi there, I am Rotimi Abiola👋
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiola-rotimi)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/johnabiola1)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rtmabiola@gmail.com)
 <!--
 **rotimiAbiola/rotimiAbiola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
