@@ -1,3 +1,7 @@
+<p align=”center”>
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/74080364/230779173-a19fffc6-2dea-45cd-9e6e-5a030c72e602.png" alt=”my banner”>
+</p>
+
 ### Hi there, I am Rotimi Abiola👋
 
 <!--
@@ -13,3 +17,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Linux and DevOps
 - 📫 Say Hi to me at rtmabiola@gmail.com
 - ⚡ Fun fact: I love learning
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=rotimiAbiola)](https://github.com/rotimiAbiola)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rotimiAbiola&layout=compact)](https://github.com/rotimiAbiola)
