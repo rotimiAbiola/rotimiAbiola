@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning Cloud Engineering and DevOps from AltSchool Africa Class of 2022
-- 🔭 I’m currently working on on my capstone project for Altshool Africa
+- 🔭 I’m currently working on "AltSchool-Microservices-with-Kubernetes"
 - 👯 I’m looking to collaborate on DevOps beginner to intermediate projects 
 - 🤔 I’m looking for help with open source projects, internships, and entry-level opportunities.
 - 💬 Ask me about Linux and DevOps
