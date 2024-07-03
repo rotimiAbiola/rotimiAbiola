@@ -9,9 +9,9 @@
 Here are some ideas to get you started:
 -->
 - 😄 Pronouns: He/Him
-- 🌱 I’m currently learning Windows Server Adminstration
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on DevOps beginner to intermediate projects 
+- 🌱 I’m currently preparing to take the Certified Kubernetes Administrator Certification
+- 🔭 I’m currently working on HNG11
+- 👯 I’m looking to collaborate on DevOps intermediate to advance projects 
 - 🤔 I’m looking for help with open-source projects, and entry-level opportunities.
 - 💬 Ask me about Linux and DevOps
 - 📫 Say Hi to me at rtmabiola@gmail.com
