@@ -10,9 +10,8 @@ Here are some ideas to get you started:
 -->
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently preparing to take the Certified Kubernetes Administrator Certification
-- 🔭 I’m currently working on HNG11
+- 🔭 I’m currently working
 - 👯 I’m looking to collaborate on DevOps intermediate to advance projects 
-- 🤔 I’m looking for help with open-source projects, and entry-level opportunities.
 - 💬 Ask me about Linux and DevOps
 - 📫 Say Hi to me at rtmabiola@gmail.com
 - ⚡ Fun fact: I love learning
